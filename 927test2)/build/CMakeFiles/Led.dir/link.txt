@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/Led.dir/main.cpp.o CMakeFiles/Led.dir/LED/Led.cpp.o -o Led 

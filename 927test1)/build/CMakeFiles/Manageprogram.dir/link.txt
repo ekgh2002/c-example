@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/Manageprogram.dir/main.cpp.o CMakeFiles/Manageprogram.dir/PROFILE/Profile.cpp.o -o Manageprogram 

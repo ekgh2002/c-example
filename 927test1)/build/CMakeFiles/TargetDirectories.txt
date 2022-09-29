@@ -1,0 +1,3 @@
+/home/ubuntu/test_9.27/927test1)/build/CMakeFiles/Manageprogram.dir
+/home/ubuntu/test_9.27/927test1)/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/test_9.27/927test1)/build/CMakeFiles/rebuild_cache.dir

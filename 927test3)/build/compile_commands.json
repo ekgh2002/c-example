@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/test_9.27/927test3)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/sort.dir/main.cpp.o -c \"/home/ubuntu/test_9.27/927test3)/main.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test3)/main.cpp"
+}
+]

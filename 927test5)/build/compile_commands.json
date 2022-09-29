@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/project/927test/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/project/927test/./calculator -g -o CMakeFiles/calculator.dir/main.cpp.o -c /home/ubuntu/project/927test/main.cpp",
+  "file": "/home/ubuntu/project/927test/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/project/927test/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/project/927test/./calculator -g -o CMakeFiles/calculator.dir/calculator/calculator.cpp.o -c /home/ubuntu/project/927test/calculator/calculator.cpp",
+  "file": "/home/ubuntu/project/927test/calculator/calculator.cpp"
+}
+]

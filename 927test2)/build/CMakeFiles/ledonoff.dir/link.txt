@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/ledonoff.dir/main.cpp.o CMakeFiles/ledonoff.dir/led/led.cpp.o -o ledonoff 

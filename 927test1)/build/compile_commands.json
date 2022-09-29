@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/test_9.27/927test1)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test1)/./PROFILE\" -g -o CMakeFiles/Manageprogram.dir/main.cpp.o -c \"/home/ubuntu/test_9.27/927test1)/main.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test1)/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/test_9.27/927test1)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test1)/./PROFILE\" -g -o CMakeFiles/Manageprogram.dir/PROFILE/Profile.cpp.o -c \"/home/ubuntu/test_9.27/927test1)/PROFILE/Profile.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test1)/PROFILE/Profile.cpp"
+}
+]

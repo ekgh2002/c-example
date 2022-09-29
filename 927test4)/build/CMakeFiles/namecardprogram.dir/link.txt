@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/namecardprogram.dir/main.cpp.o CMakeFiles/namecardprogram.dir/NAMECARD/Namecard.cpp.o -o namecardprogram 

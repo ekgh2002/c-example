@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/test_9.27/927test2)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test2)/./LED\" -g -o CMakeFiles/Led.dir/main.cpp.o -c \"/home/ubuntu/test_9.27/927test2)/main.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test2)/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/test_9.27/927test2)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test2)/./LED\" -g -o CMakeFiles/Led.dir/LED/Led.cpp.o -c \"/home/ubuntu/test_9.27/927test2)/LED/Led.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test2)/LED/Led.cpp"
+}
+]

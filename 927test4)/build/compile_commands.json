@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/test_9.27/927test4)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test4)/./NAMECARD\" -g -o CMakeFiles/namecardprogram.dir/main.cpp.o -c \"/home/ubuntu/test_9.27/927test4)/main.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test4)/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/test_9.27/927test4)/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I\"/home/ubuntu/test_9.27/927test4)/./NAMECARD\" -g -o CMakeFiles/namecardprogram.dir/NAMECARD/Namecard.cpp.o -c \"/home/ubuntu/test_9.27/927test4)/NAMECARD/Namecard.cpp\"",
+  "file": "/home/ubuntu/test_9.27/927test4)/NAMECARD/Namecard.cpp"
+}
+]
